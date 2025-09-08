@@ -18,7 +18,6 @@
     ],
     "require": {
         "php": "^8.0",
-        "ext-json": "*",
         "php-http/cache-plugin": "^1.7.1|^2.0",
         "php-http/client-common": "^2.3",
         "php-http/discovery": "^1.12",
